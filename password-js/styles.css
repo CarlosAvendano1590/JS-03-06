@@ -1,0 +1,17 @@
+.password-input {
+    margin: 10px;
+}
+
+select {
+    margin-right: 10px;
+}
+
+button {
+    margin-top: 20px;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
